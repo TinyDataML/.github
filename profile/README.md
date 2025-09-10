@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong><a href="https://github.com/TinyDataML">TinyData-ML, where data is valued.</a></strong>
+  <strong><a href="https://github.com/TinyDataML">TinyData AI, where data is valued.</a></strong>
 </p>
 
 <p align="center">
