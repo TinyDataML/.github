@@ -3,13 +3,23 @@
 </h1>
 
 <p align="center">
-  <strong><a href="https://github.com/TinyDataML">TinyData-ML, where data is valued.</a></strong>
+  <a href="https://github.com/TinyDataML">
+    <img src="https://avatars.githubusercontent.com/u/158752399?s=200&v=4" alt="TinyDataML Logo" width="150"/>
+  </a>
+</p>
+
+<h1 align="center">
+  👋 Welcome to TinyDataML
+</h1>
+
+<p align="center">
+  <strong><a href="https://github.com/TinyDataML">TinyData-ML, where data is valued.</a></strong>
 </p>
 
 <p align="center">
-  Welcome to <strong>TinyDataML</strong>! We are a team of AI researchers and engineers with our roots at <strong>Peking University</strong>. 
-  <br /> 
-  Our mission is to bridge the gap between cutting-edge academic research and real-world industry applications through the <strong>Data-Centric AI</strong> paradigm.
+  Welcome to <strong>TinyDataML</strong>! We are a team of AI researchers and engineers with our roots at <strong>Peking University</strong>. 
+  <br /> 
+  Our mission is to bridge the gap between cutting-edge academic research and real-world industry applications through the <strong>Data-Centric AI</strong> paradigm.
 </p>
 
 ---
