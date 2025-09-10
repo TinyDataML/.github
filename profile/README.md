@@ -1,23 +1,19 @@
-<h1 align="center">
-  👋 Welcome to TinyDataML
-</h1>
-
 <p align="center">
-  <a href="https://github.com/TinyDataML">
-    <img src="https://avatars.githubusercontent.com/u/158752399?s=200&v=4" alt="TinyDataML Logo" width="150"/>
+  <a href="https://github.com/TinyData AI">
+    <img src="./tinydata.png" alt="TinyData AI Logo" width="150"/>
   </a>
 </p>
 
 <h1 align="center">
-  👋 Welcome to TinyDataML
+  👋 Welcome to TinyData AI
 </h1>
 
 <p align="center">
-  <strong><a href="https://github.com/TinyDataML">TinyData-ML, where data is valued.</a></strong>
+  <strong><a href="https://github.com/TinyData AI">TinyData-ML, where data is valued.</a></strong>
 </p>
 
 <p align="center">
-  Welcome to <strong>TinyDataML</strong>! We are a team of AI researchers and engineers with our roots at <strong>Peking University</strong>. 
+  Welcome to <strong>TinyData AI</strong>! We are a team of AI researchers and engineers with our roots at <strong>Peking University</strong>. 
   <br /> 
   Our mission is to bridge the gap between cutting-edge academic research and real-world industry applications through the <strong>Data-Centric AI</strong> paradigm.
 </p>
@@ -38,9 +34,9 @@ We are building a suite of tools, prefixed with "Tiny", to create data-driven pr
 
 | Project         | Description                                                               | Status                |
 | :-------------- | :------------------------------------------------------------------------ | :-------------------- |
-| ⭐️ **[Tiny3D](https://github.com/TinyDataML/Tiny3D)** | The first Data-Centric AI production system for 3D applications.          | 🚀 Active Development |
-| **[Tiny2D](https://github.com/TinyDataML/Tiny2D)** | A next-generation AI production system for 2D vision.                     | 🌱 Early Stage        |
-| **[TinyLabeling](https://github.com/TinyDataML/TinyLabeling)** | A deep learning tool for automated data annotation.                       | 🌱 Early Stage        |
+| ⭐️ **[Tiny3D](https://github.com/TinyData AI/Tiny3D)** | The first Data-Centric AI production system for 3D applications.          | 🚀 Active Development |
+| **[Tiny2D](https://github.com/TinyData AI/Tiny2D)** | A next-generation AI production system for 2D vision.                     | 🌱 Early Stage        |
+| **[TinyLabeling](https://github.com/TinyData AI/TinyLabeling)** | A deep learning tool for automated data annotation.                       | 🌱 Early Stage        |
 | `TinyMedical`   | A next-generation production system for Medical AI. *(See Collaborations)* | 🔒 Private             |
 
 ---
@@ -55,7 +51,7 @@ Our academic roots drive our passion for collaboration. We partner with leading 
 
 ## ✨ Featured Project: Tiny3D
 
-**[Tiny3D](https://github.com/TinyDataML/Tiny3D)** is our flagship project, a comprehensive production system for 3D object detection services.
+**[Tiny3D](https://github.com/TinyData AI/Tiny3D)** is our flagship project, a comprehensive production system for 3D object detection services.
 
 It is built with four transformative features:
 
@@ -64,7 +60,7 @@ It is built with four transformative features:
 * **Fine-grained Data Editing**: Supports granular operations on datasets of any size, down to a single data point.
 * **User-Friendly Web Interface**: (Planned) A low-code, visual interface to enhance team collaboration and productivity.
 
-👉 **[Learn more about Tiny3D here!](https://github.com/TinyDataML/Tiny3D)**
+👉 **[Learn more about Tiny3D here!](https://github.com/TinyData AI/Tiny3D)**
 
 ---
 
@@ -75,6 +71,6 @@ We are an open and dynamic community, welcoming developers, researchers, and stu
 * **Try our projects**: Take `Tiny3D` for a spin and share your feedback.
 * **Submit Issues**: Found a bug or have a feature request? Open an issue in the relevant repository.
 * **Contribute Code**: Pull Requests are always welcome, from small bug fixes to new features.
-* **Join the Discussion**: Share your ideas with the community on our [Discussions](https://github.com/orgs/TinyDataML/discussions) tab. (*Note: Please enable this feature in your organization's settings.*)
+* **Join the Discussion**: Share your ideas with the community on our [Discussions](https://github.com/orgs/TinyData AI/discussions) tab. (*Note: Please enable this feature in your organization's settings.*)
 
 Let's build the next generation of AI development tools together!
