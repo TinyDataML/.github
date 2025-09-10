@@ -40,10 +40,19 @@ We are building a suite of tools, prefixed with "Tiny", to create data-driven pr
 | `TinyMedical`   | A next-generation production system for Medical AI. *(See Collaborations)* | 🔒 Private             |
 
 ---
+---
 
 ## 🤝 Collaborations
 
-Our academic roots drive our passion for collaboration. We partner with leading institutions to bridge the gap between AI research and real-world impact. Our key collaborations include:
+Our academic roots drive our passion for collaboration. We partner with leading institutions to bridge the gap between AI research and real-world impact.
+
+<p align="center">
+  <a href="http://www.puh3.net.cn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/TinyDataML/.github/main/col.png" alt="Peking University Third Hospital Logo" width="300"/>
+  </a>
+</p>
+
+Our key collaborations include:
 
 * **Peking University Third Hospital**: We are partnering to develop cutting-edge Medical AI solutions with our `TinyMedical` system, aiming to bring data-centric methodologies to critical healthcare challenges.
 
