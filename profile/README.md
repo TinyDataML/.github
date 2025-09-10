@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TinyDataML">
-    <img src="./tinydata.png" alt="TinyData AI Logo" width="150"/>
+    <img src="../tinydata.png" alt="TinyData AI Logo" width="150"/>
   </a>
 </p>
 
