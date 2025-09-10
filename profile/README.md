@@ -38,19 +38,17 @@ We are building a suite of tools, prefixed with "Tiny", to create data-driven pr
 | **[Tiny2D](https://github.com/TinyDataML/Tiny2D)** | A next-generation AI production system for 2D vision.                     | 🌱 Early Stage        |
 | **[TinyLabeling](https://github.com/TinyDataML/TinyLabeling)** | A deep learning tool for automated data annotation.                       | 🌱 Early Stage        |
 | `TinyMedical`   | A next-generation production system for Medical AI. *(See Collaborations)* | 🔒 Private             |
-
----
 ---
 
 ## 🤝 Collaborations
 
 Our academic roots drive our passion for collaboration. We partner with leading institutions to bridge the gap between AI research and real-world impact.
 
-<p align="center">
+<div align="center">
   <a href="http://www.puh3.net.cn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/TinyDataML/.github/main/col.png" alt="Peking University Third Hospital Logo" width="300"/>
+    <img src="https://raw.githubusercontent.com/TinyDataML/.github/main/col.png" alt="Peking University Third Hospital Logo" width="200"/>
   </a>
-</p>
+</div>
 
 Our key collaborations include:
 
